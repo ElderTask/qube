@@ -1,0 +1,1 @@
+// File can be safely deleted as we're now using direct Framer Motion animations
